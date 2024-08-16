@@ -10,20 +10,28 @@ Homebrew examples for Switch platform from "videoconsole development" subject.
 
 
 Contents of this repo: 'rgb(255,0,0)TO DO'
-- Using Box2D plus SDL 2.0 on Switch [] (). 3DS__SDL1_2_box2D
-* Using sprites on SDL 2.0 on Switch [](). (3DS__SDL1_2_box2D
-+ Loading ...[]().
+- Using Box2D plus SDL 2.0 on Switch [Switch__SDL2_0_box2D] ().
+* Using sprites on SDL 2.0 on Switch [Switch_SDL2_0_sprites]().
++ Using framebuffer in Switch [Switch_framebuffer]().
 
 
 ## Switch__SDL2_0_box2D
 The SDL 2.0 version of *box2D* example rewrited from **3ds-examples** on  repo [3DS__SDL1_2_box2D](https://github.com/magusti/3DS-homebrew-development#3ds_sdl1_2_sprites).
 
 TO DO: Screenshot of Switch example *physics/box2d* using SDL 2.0.
-![Screenshot of Switch example *physics/box2d* using SDL 2.0](Screenshot_3DS_SDL1_2_box2D_fig.png)
+![Screenshot of Switch example *physics/box2d* using SDL 2.0](Screenshot_Switch_SDL2_0_box2D_fig.png)
 
-## 3DS_SDL1_2_sprites
-The SDL 1.2 version of *gpusprites* example from **3ds-examples**.
+## Switch_SDL2_0_sprites
+The SDL 2.0 version of *gpusprites* example from **3ds-examples**.
 
-Screenshot of 3DS example *graphics/gpu/gpusprites* rewriting the graphic interface using SDL 1.2.
-![Screenshot of 3DS example *graphics/gpu/gpusprites* rewriting the graphic interface using SDL 1.2.](Screenshot_3DS_SDL1_2_sprites_fig.png)
+Screenshot of Switch example *graphics/gpu/gpusprites* rewriting the graphic interface using SDL 2.0.
+![Screenshot of Switch example *graphics/gpu/gpusprites* rewriting the graphic interface using SDL 2.0.](Screenshot_Switch_SDL2_0_sprites_fig.png)
 [Related to Switch example]().
+
+Comented in [M. Agustí. (2024). Adaptación de un ejemplo de uso nativo de sprites de 3DS a Switch utilizando SDL. Universitat Politècnica de València](http://hdl.handle.net/10251/204863).
+
+
+
+
+## Switch_framebuffer
+
