@@ -10,7 +10,7 @@ Homebrew examples for Switch platform from "videoconsole development" subject.
 
 Thanks to the creators and maintainers of [devkitPro](https://devkitpro.org/), and specially to  Drunken Coders, mtheall, sgstair, WinterMute, Patater, smea, AntonioND, fincs ( ͡° ͜ʖ ͡°) and PabloMK7.
 
-Also thanks to the creators and maintainers of Switch emulators such as Yuzu (RIP), Ryujinx, and Suyu. And to the creators and maintainers of documentation
+Also thanks to the creators and maintainers of Switch emulators such as Yuzu (RIP), Ryujinx, and Suyu. And to the creators and maintainers of documentation SwitchBrew,
 
 Contents of this repo: 'rgb(255,0,0)TO DO'
 - Using Box2D plus SDL 2.0 on Switch [Switch__SDL2_0_box2D]().
