@@ -11,17 +11,17 @@ Homebrew examples for Switch platform from "videoconsole development" subject.
 
 Contents of this repo: 'rgb(255,0,0)TO DO'
 - Using Box2D plus SDL 2.0 on Switch [Switch__SDL2_0_box2D]().
-* Using sprites on SDL 2.0 on Switch [Switch_SDL2_0_sprites]().
+* Using sprites on SDL 2.0 on Switch [Switch__SDL2_0_sprites]().
 + Using framebuffer in Switch [Switch__framebuffer]().
 
 
 ## Switch__SDL2_0_box2D
 The SDL 2.0 version of *box2D* example rewrited from **3ds-examples** on  repo [3DS__SDL1_2_box2D](https://github.com/magusti/3DS-homebrew-development#3ds_sdl1_2_sprites).
 
-TO DO: Screenshot of Switch example *physics/box2d* using SDL 2.0.
+Screenshot of Switch example *physics/box2d* using SDL 2.0.
 ![Screenshot of Switch example *physics/box2d* using SDL 2.0](Screenshot_Switch_SDL2_0_box2D_fig.png)
 
-## Switch_SDL2_0_sprites
+## Switch__SDL2_0_sprites
 The SDL 2.0 version of *gpusprites* example from **3ds-examples**.
 
 Screenshot of Switch example *graphics/gpu/gpusprites* rewriting the graphic interface using SDL 2.0 using (a) 768 y (b) 1024 sprites.
@@ -34,4 +34,7 @@ Comented in [M. Agustí. (2024). Adaptación de un ejemplo de uso nativo de spri
 
 
 ## Switch_framebuffer
+
+Screenshot of Switch example *graphics/simplegfx* using images.
+![Screenshot of Switch example *graphics/simplegfx* using images](Screenshot_Switch_Framebuffer_fig.png)
 
