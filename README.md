@@ -34,7 +34,7 @@ Comented in [M. Agustí. (2024). Adaptación de un ejemplo de uso nativo de spri
 
 
 ## Switch_framebuffer
-
 Screenshot of Switch example *graphics/simplegfx* using images.
 ![Screenshot of Switch example *graphics/simplegfx* using images](Screenshot_Switch_Framebuffer_fig.png)
 
+Comented in [M. Agustí. (2024). Acceso al framebuffer en la plataforma Nintendo Switch.]( http://hdl.handle.net/10251/205689).
