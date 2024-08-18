@@ -7,7 +7,9 @@ https://docs.github.com/es/authentication/keeping-your-account-and-data-secure/m
 -->
 # Switch-homebrew-development
 Homebrew examples for Switch platform from "videoconsole development" subject.
+
 Thanks to the creators and maintainers of [devkitPro](https://devkitpro.org/), and specially to  Drunken Coders, mtheall, sgstair, WinterMute, Patater, smea, AntonioND, fincs ( ͡° ͜ʖ ͡°) and PabloMK7.
+
 Also thanks to the creators and maintainers of Switch emulators such as Yuzu (RIP), Ryujinx, and Suyu. And to the creators and maintainers of documentation
 
 Contents of this repo: 'rgb(255,0,0)TO DO'
