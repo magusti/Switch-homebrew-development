@@ -12,10 +12,11 @@ Thanks to the creators and maintainers of [devkitPro](https://devkitpro.org/), a
 
 Also thanks to the creators and maintainers of Switch emulators such as Yuzu (RIP), Ryujinx, and Suyu. And to the creators and maintainers of documentation SwitchBrew,
 
-Contents of this repo: 'rgb(255,0,0)TO DO'
+Contents of this repo:
 - Using Box2D plus SDL 2.0 on Switch [Switch__SDL2_0_box2D]().
-* Using sprites on SDL 2.0 on Switch [Switch__SDL2_0_sprites]().
++ Using sprites on SDL 2.0 on Switch [Switch__SDL2_0_sprites]().
 + Using framebuffer in Switch [Switch__framebuffer]().
++ EGL on Switch
 
 
 ## Switch__SDL2_0_box2D
