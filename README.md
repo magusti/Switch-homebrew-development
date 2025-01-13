@@ -16,7 +16,7 @@ Contents of this repo:
 - Using Box2D plus SDL 2.0 on Switch [Switch__SDL2_0_box2D]().
 + Using sprites on SDL 2.0 on Switch [Switch__SDL2_0_sprites]().
 + Using framebuffer in Switch [Switch__framebuffer]().
-+ EGL on Switch
++ EGL on Switch [Switch__egl]().
 
 
 ## Switch__SDL2_0_box2D
@@ -42,3 +42,11 @@ Screenshot of Switch example *graphics/simplegfx* using images.
 ![Screenshot of Switch example *graphics/simplegfx* using images](Screenshot_Switch_Framebuffer_fig.png)
 
 Comented in [M. Agustí. (2024). Acceso al framebuffer en la plataforma Nintendo Switch.]( http://hdl.handle.net/10251/205689).
+
+
+
+## Switch_egl
+Screenshot of EGL Switch Arquitecture (left) and Switch EGL example *graphics/simple_triangle* ported to PC (right).
+![Screenshot of EGL Switch Arquitecture and Switch EGL example *graphics/simple_triangle* ported to PC ](capturaSwitchEGL.png)
+
+Comented in ...
