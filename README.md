@@ -47,6 +47,6 @@ Comented in [M. Agustí. (2024). Acceso al framebuffer en la plataforma Nintendo
 
 ## Switch_egl
 Screenshot of EGL Switch Arquitecture (left) and Switch EGL example *graphics/simple_triangle* ported to PC (right).
-![Screenshot of EGL Switch Arquitecture and Switch EGL example *graphics/simple_triangle* ported to PC ](capturaSwitchEGL.png)
+![Switch__EGL/Screenshot of EGL Switch Arquitecture and Switch EGL example *graphics/simple_triangle* ported to PC ](capturaSwitchEGL.png)
 
 Comented in ...
