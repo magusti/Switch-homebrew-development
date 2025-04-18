@@ -17,6 +17,8 @@ Contents of this repo:
 + Using sprites on SDL 2.0 on Switch [Switch__SDL2_0_sprites]().
 + Using framebuffer in Switch [Switch__framebuffer]().
 + EGL on Switch [Switch__egl]().
+* Using sprites animates on Switch with SDL2.0 [Switch__SDL2_0_spritesAnimate]().
+* Compatibiliy text mode on Switch and PC [Switch__textModoCompat]().
 
 
 ## Switch__SDL2_0_box2D
@@ -50,3 +52,16 @@ Screenshot of EGL Switch Arquitecture (left) and Switch EGL example *graphics/si
 ![Screenshot of EGL Switch Arquitecture and Switch EGL example *graphics/simple_triangle* ported to PC ](Switch__EGL/capturaSwitchEGL.png)
 
 Comented in ...
+
+
+## Switch__SDL2_0_spritesAnimate
+Screenshot of NDS style and 3DS sprite animation techniques styles ported to Switch.
+![Screenshot of NDS style and 3DS sprite animation techniques styles ported to Switch](Switch__SDL2_0_spritesAnimate/capturaSwitchSpriteAnimation.png)
+
+In process...
+
+## Switch__textModoCompat
+Screenshot of Compatibility text mode on Switch and PC.
+![Screenshot of text mode application on PC and Switch](Switch_modoText/capturaModeText.png)
+
+In process...
