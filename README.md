@@ -71,7 +71,7 @@ In process...
 
 ## Switch__openaal_openalinfo
 Screenshot of information about OpenAL on Switch by OpenAL Soft.
-![Screenshot of information about OpenAL on Switch by OpenAL Soft](Switch_openal_openalinfo/captura_switch_ opeanl_openalinfo.png)
+![Screenshot of information about OpenAL on Switch by OpenAL Soft](Switch_openal_openalinfo/captura_switch_opeanl_openalinfo.png)
 
 In process...
    
