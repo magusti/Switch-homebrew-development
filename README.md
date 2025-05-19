@@ -19,6 +19,8 @@ Contents of this repo:
 + EGL on Switch [Switch__egl]().
 * Using sprites animates on Switch with SDL2.0 [Switch__SDL2_0_spritesAnimate]().
 * Compatibiliy text mode on Switch and PC [Switch__textModoCompat]().
+* Disponibility of OpenAL on Switch by OpenAL Soft [Switch__openaal_openalinfo]()
+
 
 
 ## Switch__SDL2_0_box2D
@@ -65,3 +67,12 @@ Screenshot of Compatibility text mode on Switch and PC.
 ![Screenshot of text mode application on PC and Switch](Switch_modoText/capturaModeText.png)
 
 In process...
+
+
+## Switch__openaal_openalinfo
+Screenshot of information about OpenAL on Switch by OpenAL Soft.
+![Screenshot of information about OpenAL on Switch by OpenAL Soft](Switch_openal_openalinfo/captura_switch_ opeanl_openalinfo.png)
+
+In process...
+   
+
