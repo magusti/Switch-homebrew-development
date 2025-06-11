@@ -13,19 +13,19 @@ Thanks to the creators and maintainers of [devkitPro](https://devkitpro.org/), a
 Also thanks to the creators and maintainers of Switch emulators such as Yuzu (RIP), Ryujinx, and Suyu. And to the creators and maintainers of documentation SwitchBrew,
 
 Contents of this repo:
-- Using Box2D plus SDL 2.0 on Switch [Switch__SDL2_0_box2D]().
-+ Using sprites on SDL 2.0 on Switch [Switch__SDL2_0_sprites]().
-+ Using framebuffer in Switch [Switch__framebuffer]().
-+ EGL on Switch [Switch__egl]().
-+ OpenGL ES on Switch [Switch_opengles]().
-* Compatibiliy text mode on Switch and PC [Switch__textModoCompat]().
-* Disponibility of OpenAL on Switch by OpenAL Soft [Switch__OpenAL_openalinfo]()
-* Matrix effect on Switch [Switch_efecteMatrix]().
-* Using sprites animates on Switch with SDL2.0 [Switch__SDL2_0_spritesAnimate]().
+- Using Box2D plus SDL 2.0 on Switch [Switch__SDL2_0_box2D](https://github.com/magusti/Switch-homebrew-development/tree/main#switch__sdl2_0_box2d).
++ Using sprites on SDL 2.0 on Switch [Switch__SDL2_0_sprites](https://github.com/magusti/Switch-homebrew-development/tree/main#switch__sdl2_0_sprites).
++ Using framebuffer in Switch [Switch__framebuffer](https://github.com/magusti/Switch-homebrew-development/tree/main#switch_framebuffer).
++ EGL on Switch [Switch__egl](https://github.com/magusti/Switch-homebrew-development/tree/main#switch_egl).
++ OpenGL ES on Switch [Switch_opengles](https://github.com/magusti/Switch-homebrew-development/tree/main#switch_opengles).
+* Compatibiliy text mode on Switch and PC [Switch__textModoCompat](https://github.com/magusti/Switch-homebrew-development/tree/main#switch__textmodocompat).
+* Disponibility of OpenAL on Switch by OpenAL Soft [Switch__OpenAL_openalinfo](https://github.com/magusti/Switch-homebrew-development/tree/main#switch__openal_openalinfo)
+* Matrix effect on Switch [Switch_efecteMatrix](https://github.com/magusti/Switch-homebrew-development/tree/main#switch_efectematrix).
+* Using sprites animates on Switch with SDL2.0 [Switch__SDL2_0_spritesAnimate](https://github.com/magusti/Switch-homebrew-development/tree/main#switch__sdl2_0_spritesanimate).
 
 <!-- 
 Plantilla entrada
-* Títol de l'article [Titol de l'entrada]().
+* Títol de l'article [Titol de l'entrada](URL).
 -->
 
 
