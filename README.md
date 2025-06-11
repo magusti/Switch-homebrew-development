@@ -19,13 +19,13 @@ Contents of this repo:
 + EGL on Switch [Switch__egl](https://github.com/magusti/Switch-homebrew-development/tree/main#switch_egl).
 + OpenGL ES on Switch [Switch_opengles](https://github.com/magusti/Switch-homebrew-development/tree/main#switch_opengles).
 * Compatibiliy text mode on Switch and PC [Switch__textModoCompat](https://github.com/magusti/Switch-homebrew-development/tree/main#switch__textmodocompat).
-* Disponibility of OpenAL on Switch by OpenAL Soft [Switch__OpenAL_openalinfo](https://github.com/magusti/Switch-homebrew-development/tree/main#switch__openal_openalinfo)
+* Disponibility of OpenAL on Switch by OpenAL Soft [Switch__OpenAL_openalinfo](https://github.com/magusti/Switch-homebrew-development/tree/main#switch__openal_openalinfo).
 * Matrix effect on Switch [Switch_efecteMatrix](https://github.com/magusti/Switch-homebrew-development/tree/main#switch_efectematrix).
-* Using sprites animates on Switch with SDL2.0 [Switch__SDL2_0_spritesAnimate](https://github.com/magusti/Switch-homebrew-development/tree/main#switch__sdl2_0_spritesanimate).
+* Using sprites animates on Switch with SDL2.0 [Switch__SDL2_0_AnimateSprites](https://github.com/magusti/Switch-homebrew-development/tree/main#switch__sdl2_0_animatesprites).
 
 <!-- 
 Plantilla entrada
-* Títol de l'article [Titol de l'entrada](URL).
+* Títol de l'article [Titol de l'entrada__conter_que_No_seParegaen el sprimer 16 o poc més caracters](URL).
 -->
 
 
@@ -92,9 +92,9 @@ Screenshot of my Matrix effect on Switch
 In process...
 
 
-## Switch__SDL2_0_spritesAnimate
+## Switch__SDL2_0_AnimateSprites
 Screenshot of NDS style and 3DS sprite animation techniques styles ported to Switch.
-![Screenshot of NDS style and 3DS sprite animation techniques styles ported to Switch](Switch__SDL2_0_spritesAnimate/capturaDePantalla_spriteAnimate_Switch_SDL.png )
+![Screenshot of NDS style and 3DS sprite animation techniques styles ported to Switch](Switch__SDL2_0_AnimateSprites/capturaDePantalla_spriteAnimate_Switch_SDL.png )
 
 <!-- 
 Plantilla apartat; conter espais en blanc de separació o no i simbols
