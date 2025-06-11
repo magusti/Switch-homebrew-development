@@ -20,11 +20,11 @@ Contents of this repo:
 * Using sprites animates on Switch with SDL2.0 [Switch__SDL2_0_spritesAnimate]().
 * Compatibiliy text mode on Switch and PC [Switch__textModoCompat]().
 * Disponibility of OpenAL on Switch by OpenAL Soft [Switch__OpenAL_openalinfo]()
-* Matrix effect on Switch [Switch_efecteMatrix] (https://github.com/magusti/Switch-homebrew-development#Switch_efecteMatrix).
+* Matrix effect on Switch [Switch_efecteMatrix]().
 
 <!-- 
 Plantilla entrada
-* Títol de l'article [Titol de l'entrada] (URL global en ancla local).
+* Títol de l'article [Titol de l'entrada]().
 -->
 
 
