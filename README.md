@@ -65,7 +65,7 @@ In process...
 
 ## Switch_opengles
 Screenshot of OpenGL ES Switch example *graphics/opengl/es2gears* (left) ported to PC (right).
-![Screenshot of Switch example *graphics/opengl/es2gears* (left) ported to PC (right).](Switch__EGL/capturaSwitchOpenGLESEGL.png)
+![Screenshot of Switch example *graphics/opengl/es2gears* (left) ported to PC (right).](Switch__OpenGLES/capturaSwitchOpenGLES.png)
 
 Comented in ... (https://riunet.upv.es/handle/10251/221098)
 In process... 
