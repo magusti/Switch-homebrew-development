@@ -94,7 +94,7 @@ In process...
 
 ## Switch__SDL2_0_AnimateSprites
 Screenshot of NDS style and 3DS sprite animation techniques styles ported to Switch.
-![Screenshot of NDS style and 3DS sprite animation techniques styles ported to Switch](Switch__SDL2_0_AnimateSprites/capturaDePantalla_spriteAnimate_Switch_SDL.png )
+![Screenshot of NDS style and 3DS sprite animation techniques styles ported to Switch](Switch__SDL2_0_spritesAnimate/capturaDePantalla_spriteAnimate_Switch_SDL.png )
 
 <!-- 
 Plantilla apartat; conter espais en blanc de separació o no i simbols
