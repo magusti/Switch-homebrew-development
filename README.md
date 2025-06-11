@@ -82,8 +82,7 @@ Screenshot of information about OpenAL on Switch by OpenAL Soft.
 In process...
    
 
-* Matrix effect on Switch [Switch_efecteMatrix] (https://github.com/magusti/Switch-homebrew-development#Switch_efecteMatrix).
-## 3DS_efecteMatrix
+## Switch_efecteMatrix
 Screenshot of my Matrix effect on Switch 
 ![Screenshot of my Matrix effect on Switch.](efecteMatrix_Switch/efecteMatrix_Switch.png).
 
