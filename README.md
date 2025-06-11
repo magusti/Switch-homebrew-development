@@ -20,6 +20,12 @@ Contents of this repo:
 * Using sprites animates on Switch with SDL2.0 [Switch__SDL2_0_spritesAnimate]().
 * Compatibiliy text mode on Switch and PC [Switch__textModoCompat]().
 * Disponibility of OpenAL on Switch by OpenAL Soft [Switch__OpenAL_openalinfo]()
+* Matrix effect on Switch [Switch_efecteMatrix] (https://github.com/magusti/Switch-homebrew-development#Switch_efecteMatrix).
+
+<!-- 
+Plantilla entrada
+* Títol de l'article [Titol de l'entrada] (URL global en ancla local).
+-->
 
 
 
@@ -76,3 +82,24 @@ Screenshot of information about OpenAL on Switch by OpenAL Soft.
 In process...
    
 
+* Matrix effect on Switch [Switch_efecteMatrix] (https://github.com/magusti/Switch-homebrew-development#Switch_efecteMatrix).
+## 3DS_efecteMatrix
+Screenshot of my Matrix effect on Switch 
+![Screenshot of my Matrix effect on Switch.](efecteMatrix_Switch/efecteMatrix_Switch.png).
+
+<!-- Comented in ... -->
+In process...
+
+
+
+<!-- 
+Plantilla apartat; conter espais en blanc de separació o no i simbols
+
+## Titol
+Text,  de l'entrada
+|[Text de l'entrada.](efecteMatrix_3DS/efecteMatrix_3DS.png).
+
+< ! -- Comented in ... -- >
+In process...
+
+-->
