@@ -13,6 +13,17 @@ Thanks to the creators and maintainers of [devkitPro](https://devkitpro.org/), a
 Also thanks to the creators and maintainers of Switch emulators such as Yuzu (RIP), Ryujinx, and Suyu. And to the creators and maintainers of documentation SwitchBrew,
 
 Contents of this repo:
+- [Using Box2D plus SDL 2.0 on Switch](https://github.com/magusti/Switch-homebrew-development/tree/main#switch__sdl2_0_box2d).
++ [Using sprites on SDL 2.0 on Switch](https://github.com/magusti/Switch-homebrew-development/tree/main#switch__sdl2_0_sprites).
++ [Using framebuffer in Switch](https://github.com/magusti/Switch-homebrew-development/tree/main#switch_framebuffer).
++ [EGL on Switchl](https://github.com/magusti/Switch-homebrew-development/tree/main#switch_egl).
++ [OpenGL ES on Switch](https://github.com/magusti/Switch-homebrew-development/tree/main#switch_opengles).
+* [Compatibiliy text mode on Switch and PC](https://github.com/magusti/Switch-homebrew-development/tree/main#switch__textmodocompat).
+* [Disponibility of OpenAL on Switch by OpenAL Soft](https://github.com/magusti/Switch-homebrew-development/tree/main#switch__openal_openalinfo).
+* [Matrix effect on Switch](https://github.com/magusti/Switch-homebrew-development/tree/main#switch_efectematrix).
+* [Using sprites animates on Switch with SDL2.0 ](https://github.com/magusti/Switch-homebrew-development/tree/main#switch__sdl2_0_animatesprites).
+
+<!--
 - Using Box2D plus SDL 2.0 on Switch [Switch__SDL2_0_box2D](https://github.com/magusti/Switch-homebrew-development/tree/main#switch__sdl2_0_box2d).
 + Using sprites on SDL 2.0 on Switch [Switch__SDL2_0_sprites](https://github.com/magusti/Switch-homebrew-development/tree/main#switch__sdl2_0_sprites).
 + Using framebuffer in Switch [Switch__framebuffer](https://github.com/magusti/Switch-homebrew-development/tree/main#switch_framebuffer).
@@ -22,6 +33,8 @@ Contents of this repo:
 * Disponibility of OpenAL on Switch by OpenAL Soft [Switch__OpenAL_openalinfo](https://github.com/magusti/Switch-homebrew-development/tree/main#switch__openal_openalinfo).
 * Matrix effect on Switch [Switch_efecteMatrix](https://github.com/magusti/Switch-homebrew-development/tree/main#switch_efectematrix).
 * Using sprites animates on Switch with SDL2.0 [Switch__SDL2_0_AnimateSprites](https://github.com/magusti/Switch-homebrew-development/tree/main#switch__sdl2_0_animatesprites).
+-->
+
 
 <!-- 
 Plantilla entrada
@@ -30,7 +43,9 @@ Plantilla entrada
 
 
 
-## Switch__SDL2_0_box2D
+<!-- ## Switch__SDL2_0_box2D -->
+## Using Box2D plus SDL 2.0 on Switch 
+
 The SDL 2.0 version of *box2D* example rewrited from **3ds-examples** on  repo [3DS__SDL1_2_box2D](https://github.com/magusti/3DS-homebrew-development#3ds_sdl1_2_sprites).
 
 Screenshot of Switch example *physics/box2d* using SDL 2.0.
@@ -39,7 +54,9 @@ Screenshot of Switch example *physics/box2d* using SDL 2.0.
 Commented in [M. Agustí. (2024). Revisión de un ejemplo de uso de Box2D. Caso de uso en plataformas 3DS, Switch y PC. Universitat Politècnica de València](https://riunet.upv.es/handle/10251/205542).
 
 
-## Switch__SDL2_0_sprites
+<!-- ## Switch__SDL2_0_sprites -->
+## Using sprites on SDL 2.0 on Switch
+
 The SDL 2.0 version of *gpusprites* example from **3ds-examples**.
 
 Screenshot of Switch example *graphics/gpu/gpusprites* rewriting the graphic interface using SDL 2.0 using (a) 768 y (b) 1024 sprites.
@@ -51,7 +68,9 @@ Commented in [M. Agustí. (2024). Adaptación de un ejemplo de uso nativo de spr
 
 
 
-## Switch_framebuffer
+<!-- ## Switch_framebuffer --> 
+## Using framebuffer in Switch 
+
 Screenshot of Switch example *graphics/simplegfx* using images.
 ![Screenshot of Switch example *graphics/simplegfx* using images](Screenshot_Switch_Framebuffer_fig.png)
 
@@ -59,34 +78,44 @@ Commented in [M. Agustí. (2024). Acceso al framebuffer en la plataforma Nintend
 
 
 
-## Switch_egl
+<!-- ## Switch_egl -->
+## EGL on Switch 
+
 Screenshot of EGL Switch Arquitecture (left) and Switch EGL example *graphics/simple_triangle* ported to PC (right).
 ![Screenshot of EGL Switch Arquitecture and Switch EGL example *graphics/simple_triangle* ported to PC ](Switch__EGL/capturaSwitchEGL.png)
 
 Commented in [M. Agustí. (2025). Introducción al uso de EGL en aplicaciones portables para la videoconsola Nintendo Switch y Linux](https://riunet.upv.es/handle/10251/222915).
 
-## Switch_opengles
+<!-- ## Switch_opengles -->
+## OpenGL ES on Switch
+
 Screenshot of OpenGL ES Switch example *graphics/opengl/es2gears* (left) ported to PC (right).
 ![Screenshot of Switch example *graphics/opengl/es2gears* (left) ported to PC (right).](Switch__OpenGLES/capturaSwitchOpenGLES.png)
 
 Commented in [M. Agustí. (2025). Portabilidad de aplicaciones basadas en OpenGL ES entre plataforma N. Switch y Linux. Universitat Politècnica de València](https://riunet.upv.es/handle/10251/221098).
 
 
-## Switch__textModoCompat
+<!-- ## Switch__textModoCompat --> 
+## Compatibiliy text mode on Switch and PC 
+
 Screenshot of Compatibility text mode on Switch and PC.
 ![Screenshot of text mode application on PC and Switch](Switch_modoText/capturaModeText.png)
 
 Commented in [M. Agustí. (2025). Aplicaciones en modo texto: portabilidad entre plataformas Switch y PC](https://riunet.upv.es/handle/10251/221558).
 
 
-## Switch__OpenAL_openalinfo
+<!-- ## Switch__OpenAL_openalinfo -->
+## Disponibility of OpenAL on Switch by OpenAL Soft
+
 Screenshot of information about OpenAL on Switch by OpenAL Soft.
 ![Screenshot of information about OpenAL on Switch by OpenAL Soft](Switch_openal_openalinfo/captura_switch_opeanl_openalinfo.png)
 
 Commented in [M. Agustí. (2025). Uso de OpenAL en plataforma Switch: OpenAL Soft](https://riunet.upv.es/handle/10251/221432).
    
 
-## Switch_efecteMatrix
+<!-- ## Switch_efecteMatrix -->
+## Matrix effect on Switch
+
 Screenshot of my Matrix effect on Switch 
 ![Screenshot of my Matrix effect on Switch.](efecteMatrix_Switch/efecteMatrix_Switch.png).
 
@@ -94,7 +123,9 @@ Screenshot of my Matrix effect on Switch
 In process...
 
 
-## Switch__SDL2_0_AnimateSprites
+<!-- ## Switch__SDL2_0_AnimateSprites -->
+##Using sprites animates on Switch with SDL2.0
+
 Screenshot of NDS style and 3DS sprite animation techniques styles ported to Switch.
 ![Screenshot of NDS style and 3DS sprite animation techniques styles ported to Switch](Switch__SDL2_0_spritesAnimate/capturaDePantalla_spriteAnimate_Switch_SDL.png )
 
