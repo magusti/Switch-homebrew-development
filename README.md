@@ -16,7 +16,7 @@ Contents of this repo:
 - [Using Box2D plus SDL 2.0 on Switch](https://github.com/magusti/Switch-homebrew-development#using-box2d-plus-sdl-20-on-switch).
 + [Using sprites on SDL 2.0 on Switch](https://github.com/magusti/Switch-homebrew-development#using-sprites-on-sdl-20-on-switch).
 + [Using framebuffer in Switch](https://github.com/magusti/Switch-homebrew-development#using-framebuffer-i-switch).
-+ [EGL on Switchl](https://github.com/magusti/Switch-homebrew-development#egl-on-switch).
++ [EGL on Switch](https://github.com/magusti/Switch-homebrew-development#egl-on-switch).
 + [OpenGL ES on Switch](https://github.com/magusti/Switch-homebrew-development#opengl-es-on-switch).
 * [Compatibiliy text mode on Switch and PC](https://github.com/magusti/Switch-homebrew-development#compatibiliy-text-mode-on-switch-and-pc).
 * [Disponibility of OpenAL on Switch by OpenAL Soft](https://github.com/magusti/Switch-homebrew-development#disponibility-of-openal-on-switch-by-openal-soft).
