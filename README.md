@@ -13,26 +13,26 @@ Thanks to the creators and maintainers of [devkitPro](https://devkitpro.org/), a
 Also thanks to the creators and maintainers of Switch emulators such as Yuzu (RIP), Ryujinx, and Suyu. And to the creators and maintainers of documentation SwitchBrew,
 
 Contents of this repo:
-- [Using Box2D plus SDL 2.0 on Switch](https://github.com/magusti/Switch-homebrew-development/tree/main#switch__sdl2_0_box2d).
-+ [Using sprites on SDL 2.0 on Switch](https://github.com/magusti/Switch-homebrew-development/tree/main#switch__sdl2_0_sprites).
-+ [Using framebuffer in Switch](https://github.com/magusti/Switch-homebrew-development/tree/main#switch_framebuffer).
-+ [EGL on Switchl](https://github.com/magusti/Switch-homebrew-development/tree/main#switch_egl).
-+ [OpenGL ES on Switch](https://github.com/magusti/Switch-homebrew-development/tree/main#switch_opengles).
-* [Compatibiliy text mode on Switch and PC](https://github.com/magusti/Switch-homebrew-development/tree/main#switch__textmodocompat).
-* [Disponibility of OpenAL on Switch by OpenAL Soft](https://github.com/magusti/Switch-homebrew-development/tree/main#switch__openal_openalinfo).
-* [Matrix effect on Switch](https://github.com/magusti/Switch-homebrew-development/tree/main#switch_efectematrix).
-* [Using sprites animates on Switch with SDL2.0 ](https://github.com/magusti/Switch-homebrew-development/tree/main#switch__sdl2_0_animatesprites).
+- [Using Box2D plus SDL 2.0 on Switch](https://github.com/magusti/Switch-homebrew-development#using-box2d-plus-sdl-20-on-switch).
++ [Using sprites on SDL 2.0 on Switch](https://github.com/magusti/Switch-homebrew-development#using-sprites-on-sdl-20-on-switch).
++ [Using framebuffer in Switch](https://github.com/magusti/Switch-homebrew-development#using-framebuffer-i-switch).
++ [EGL on Switchl](https://github.com/magusti/Switch-homebrew-development#egl-on-switch).
++ [OpenGL ES on Switch](https://github.com/magusti/Switch-homebrew-development#opengl-es-on-switch).
+* [Compatibiliy text mode on Switch and PC](https://github.com/magusti/Switch-homebrew-development#compatibiliy-text-mode-on-switch-and-pc).
+* [Disponibility of OpenAL on Switch by OpenAL Soft](https://github.com/magusti/Switch-homebrew-development#disponibility-of-openal-on-switch-by-openal-soft).
+* [Matrix effect on Switch](https://github.com/magusti/Switch-homebrew-development#matrix-effect-on-switch).
+* [Using sprites animates on Switch with SDL2.0](https://github.com/magusti/Switch-homebrew-development#using-sprites-animates-on-switch-with-sdl20).
 
 <!--
-- Using Box2D plus SDL 2.0 on Switch [Switch__SDL2_0_box2D](https://github.com/magusti/Switch-homebrew-development/tree/main#switch__sdl2_0_box2d).
-+ Using sprites on SDL 2.0 on Switch [Switch__SDL2_0_sprites](https://github.com/magusti/Switch-homebrew-development/tree/main#switch__sdl2_0_sprites).
-+ Using framebuffer in Switch [Switch__framebuffer](https://github.com/magusti/Switch-homebrew-development/tree/main#switch_framebuffer).
-+ EGL on Switch [Switch__egl](https://github.com/magusti/Switch-homebrew-development/tree/main#switch_egl).
-+ OpenGL ES on Switch [Switch_opengles](https://github.com/magusti/Switch-homebrew-development/tree/main#switch_opengles).
-* Compatibiliy text mode on Switch and PC [Switch__textModoCompat](https://github.com/magusti/Switch-homebrew-development/tree/main#switch__textmodocompat).
-* Disponibility of OpenAL on Switch by OpenAL Soft [Switch__OpenAL_openalinfo](https://github.com/magusti/Switch-homebrew-development/tree/main#switch__openal_openalinfo).
-* Matrix effect on Switch [Switch_efecteMatrix](https://github.com/magusti/Switch-homebrew-development/tree/main#switch_efectematrix).
-* Using sprites animates on Switch with SDL2.0 [Switch__SDL2_0_AnimateSprites](https://github.com/magusti/Switch-homebrew-development/tree/main#switch__sdl2_0_animatesprites).
+- Using Box2D plus SDL 2.0 on Switch [Switch__SDL2_0_box2D](https://github.com/magusti/Switch-homebrew-development#switch__sdl2_0_box2d).
++ Using sprites on SDL 2.0 on Switch [Switch__SDL2_0_sprites](https://github.com/magusti/Switch-homebrew-development#switch__sdl2_0_sprites).
++ Using framebuffer in Switch [Switch__framebuffer](https://github.com/magusti/Switch-homebrew-development#switch_framebuffer).
++ EGL on Switch [Switch__egl](https://github.com/magusti/Switch-homebrew-development#switch_egl).
++ OpenGL ES on Switch [Switch_opengles](https://github.com/magusti/Switch-homebrew-development#switch_opengles).
+* Compatibiliy text mode on Switch and PC [Switch__textModoCompat](https://github.com/magusti/Switch-homebrew-development#switch__textmodocompat).
+* Disponibility of OpenAL on Switch by OpenAL Soft [Switch__OpenAL_openalinfo](https://github.com/magusti/Switch-homebrew-development#switch__openal_openalinfo).
+* Matrix effect on Switch [Switch_efecteMatrix](https://github.com/magusti/Switch-homebrew-development#switch_efectematrix).
+* Using sprites animates on Switch with SDL2.0 [Switch__SDL2_0_AnimateSprites](https://github.com/magusti/Switch-homebrew-development#switch__sdl2_0_animatesprites).
 -->
 
 
@@ -124,7 +124,7 @@ In process...
 
 
 <!-- ## Switch__SDL2_0_AnimateSprites -->
-##Using sprites animates on Switch with SDL2.0
+## Using sprites animates on Switch with SDL2.0
 
 Screenshot of NDS style and 3DS sprite animation techniques styles ported to Switch.
 ![Screenshot of NDS style and 3DS sprite animation techniques styles ported to Switch](Switch__SDL2_0_spritesAnimate/capturaDePantalla_spriteAnimate_Switch_SDL.png )
