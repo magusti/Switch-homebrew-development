@@ -129,8 +129,8 @@ In process...
 ## Using sprites animates on Switch with SDL2.0
 
 Screenshot of NDS style and 3DS sprite animation techniques styles ported to Switch.
-![Screenshot of NDS style and 3DS sprite animation techniques styles ported to Switch](Switch__SDL2_0_spritesAnimate/capturaDePantalla_spriteAnimate_Switch_SDL.png )
-(Switch__SDL2_0_spritesAnimate/
+![Screenshot of NDS style and 3DS sprite animation techniques styles ported to Switch](Switch__SDL2_0_spritesAnimate/capturaDePantalla_spriteAnimate_Switch_SDL.png
+Switch__SDL2_0_spritesAnimate/
 capturaDePantalla_spriteAnimate_Switch_SDL_2.png)
 
 Code in [Switch__SDL2_0_spritesAnimate](https://github.com/magusti/Switch-homebrew-development/tree/main/Switch__SDL2_0_spritesAnimate)
