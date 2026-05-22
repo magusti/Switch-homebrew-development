@@ -1,6 +1,4 @@
 //     enum personatges { womanNDS, manNDS, womanRGBANDS, manRGBANDS, reimu3DS };
-// QUE AMPLIE ELS XOCOTETS!!!!
-
 // Prueba de concepto: carregar un spritesheet i mostrar un trocet --> sprite!
 //
 // Exemple bàsic d'animació mitjançant sprites a partir d'un "spritesheet".
@@ -194,7 +192,6 @@ Sprite*  initSspriteAnimat( char *rutaSpriteSheet[], int nCuadres,
          sprite->spr.params.pos.x = rand() % SCREEN_WIDTH;
          sprite->spr.params.pos.y = rand() % SCREEN_HEIGHT;
          
-//          unaImage = IMG_Load( rutaSpriteSheet );
          for (i=0; i < nCuadres; i++) {
              unaImage = IMG_Load( rutaSpriteSheet[i] );
              if (unaImage) {
@@ -286,13 +283,11 @@ int main(int argc, char* argv[]) {
     
     
     // Load graphics & ...
-//     Sprite* spriteWoman = NULL, spriteMan;
-//     losSprites[0] = initSspriteAnimat( "gfx/womanRGBA.png", 32, 32, 4, 3); 
     char *rutaWoman[] = {"gfx/woman.png"};
     losSprites[0] = initSspriteAnimat( rutaWoman, 1, 32, 32, 4, 3, 3, 3); 
     if (!losSprites[0] ) {
         mensatges_surf = render_text("Fallo en carregar gfx/woman.png", font, colors[1], &mensatges_rect);
-    // Fique a negre el rectangle baix del mensatge
+         // Fique a negre el rectangle baix del mensatge
         SDL_SetRenderDrawColor(renderer, 0, 0, 0, 255); SDL_RenderFillRect(renderer, &mensatges_rect);
         mensatges_tex = SDL_CreateTextureFromSurface(renderer, mensatges_surf );
         SDL_RenderCopy(renderer, mensatges_tex, NULL, &mensatges_rect); // Ho farem més tard?
@@ -304,7 +299,7 @@ int main(int argc, char* argv[]) {
     losSprites[1] = initSspriteAnimat( rutaMan, 1, 32, 32, 4, 3, 3, 3); // Orden: Detrás/derecha/Frente/Izquierda
     if (!losSprites[1] ) {
         mensatges_surf = render_text("Fallo en carregar gfx/man.png", font, colors[1], &mensatges_rect);
-    // Fique a negre el rectangle baix del mensatge
+        // Fique a negre el rectangle baix del mensatge
         SDL_SetRenderDrawColor(renderer, 0, 0, 0, 255); SDL_RenderFillRect(renderer, &mensatges_rect);
         mensatges_tex = SDL_CreateTextureFromSurface(renderer, mensatges_surf );
         SDL_RenderCopy(renderer, mensatges_tex, NULL, &mensatges_rect); // Ho farem més tard?
@@ -313,8 +308,6 @@ int main(int argc, char* argv[]) {
         exit(-1);
     }
       
-//     spriteWoman = losSprites[0];
-//     spriteMann = losSprites[1]; 
    char *rutaWomanRGBA[] = {"gfx/womanRGBA.png"};
    losSprites[2] = initSspriteAnimat( rutaWomanRGBA, 1, 32, 32, 4, 3, 2, 2); 
    char *rutaManRGBA[] = {"gfx/manRGBA.png"};
@@ -420,42 +413,18 @@ int main(int argc, char* argv[]) {
         if ((kDown & HidNpadButton_AnyUp) || (kHeld & HidNpadButton_AnyUp) ) {
             for( int i=0; i < numSprites;  i++)
                 moveSprites( losSprites[i], ATRAS);
-//                 moveSprites( losSprites[0], ATRAS); //ARRIBA);
-//                 moveSprites( losSprites[1], ATRAS); //ARRIBA);
-//                 moveSprites( losSprites[2], ATRAS); //ARRIBA);
-//                 moveSprites( losSprites[3], ATRAS); //ARRIBA);
-//                 moveSprites( losSprites[4], ATRAS); //ARRIBA);
-//                 moveSprites( losSprites[5], ATRAS); //ARRIBA);
         }
         if ((kDown & HidNpadButton_AnyDown) || (kHeld & HidNpadButton_AnyDown) ) {
             for( int i=0; i < numSprites;  i++)
                 moveSprites( losSprites[i], FRENTE);
-//                 moveSprites( losSprites[0], FRENTE); //ABAJO);
-//                 moveSprites( losSprites[1], FRENTE); //ABAJO);
-//                 moveSprites( losSprites[2], FRENTE); //ABAJO);
-//                 moveSprites( losSprites[3], FRENTE); //ABAJO);                
-//                 moveSprites( losSprites[4], FRENTE); //ABAJO);
-//                 moveSprites( losSprites[5], FRENTE); //ABAJO);                
         }
         if ((kDown & HidNpadButton_AnyLeft) || (kHeld & HidNpadButton_AnyLeft) ) {
             for( int i=0; i < numSprites;  i++)
                 moveSprites( losSprites[i], IZQUIERDA);
-//                 moveSprites( losSprites[0], IZQUIERDA);
-//                 moveSprites( losSprites[1], IZQUIERDA);
-//                 moveSprites( losSprites[2], IZQUIERDA);
-//                 moveSprites( losSprites[3], IZQUIERDA);
-//                 moveSprites( losSprites[4], IZQUIERDA);
-//                 moveSprites( losSprites[5], IZQUIERDA);
         }       
         if ((kDown & HidNpadButton_AnyRight) || (kHeld & HidNpadButton_AnyRight) ) {
             for( int i=0; i < numSprites;  i++)
                 moveSprites( losSprites[i], DERECHA);
-//                 moveSprites( losSprites[0], DERECHA);
-//                 moveSprites( losSprites[1], DERECHA);
-//                 moveSprites( losSprites[2], DERECHA);
-//                 moveSprites( losSprites[3], DERECHA);
-//                 moveSprites( losSprites[4], DERECHA);
-//                 moveSprites( losSprites[5], DERECHA);
         }
             
             // Borra la pantalla, pintant de negre
@@ -463,7 +432,6 @@ int main(int argc, char* argv[]) {
 //             SDL_SetRenderDrawColor(renderer, 255, 255, 255, 255); // RGBA blanc
             SDL_RenderClear( renderer );
             
-//             moveSprites(); // No més que actualitza posicions <-- f(velocitat, colisions)
             
             Sprite* sprite;
             // Render the scene
@@ -500,12 +468,6 @@ int main(int argc, char* argv[]) {
             
             
             
-            
-//             sprintf(textMensatge, "SDL 2.0 sprites: %lu/%d (usa Up/Down para +/-sprites)", numSprites, MAX_SPRITES );
-//             sprintf(textMensatge, "SDL 2.0 sprite animats: %2.0fx%2.0f - woman %4.1f,%4.1f - man %4.1f,%4.1f",  
-//             losSprites[0]->spr.params.pos.w, losSprites[0]->spr.params.pos.h,
-//             losSprites[0]->spr.params.pos.x, losSprites[0]->spr.params.pos.y,
-//             losSprites[1]->spr.params.pos.x, losSprites[1]->spr.params.pos.y   );
     sprintf(textMensatge, 
             "Sprites animats: w %4.1f,%4.1f, %d, %2.0f, %2.0f; m %4.1f,%4.1f, %d, %2.0f, %2.0f",  
             losSprites[0]->spr.params.pos.x, losSprites[0]->spr.params.pos.y,
@@ -533,10 +495,7 @@ int main(int argc, char* argv[]) {
             
             end = clock();
             cpu_time_used = ((double) (end - start)) / CLOCKS_PER_SEC;
-            //        printf("Tiempo de CPU utilizado: %f segundos vs %u \n", cpu_time_used, stop_time - start_time);
-            //        printf(textMensatge, "Tiempo de CPU utilizado: %f segundos vs %u ms \n", cpu_time_used, stop_time - start_time);
             sprintf(textMensatge, "Tiempo de CPU utilizado: %f segundos vs %u ms \n", cpu_time_used, stop_time - start_time);
-//             TRACE(textMensatge);
             mensatges_surf = render_text(textMensatge, font, colors[1], &mensatges_rect2);              
             if ( mensatges_tex )
                 SDL_DestroyTexture( mensatges_tex );
