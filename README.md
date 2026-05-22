@@ -134,6 +134,7 @@ Screenshot of NDS style and 3DS sprite animation techniques styles ported to Swi
 ![Another Screenshot with some sprites scaled](Switch__SDL2_0_spritesAnimate/capturaDePantalla_spriteAnimate_Switch_SDL_2.png)
 
 Code in [Switch__SDL2_0_spritesAnimate](https://github.com/magusti/Switch-homebrew-development/tree/main/Switch__SDL2_0_spritesAnimate)
+
 References:
  * Exemple from NDS devkitPro (Graphics/Sprites/animate_simple_NDS)
  * NDS/Tutorials Animation  / Dev-Scene.com . Copia en <https://d2l62mv7qj2i3f.cloudfront.net/NDS/Tutorials_Animation>
