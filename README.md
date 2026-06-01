@@ -22,6 +22,9 @@ Contents of this repo:
 * [Disponibility of OpenAL on Switch by OpenAL Soft](https://github.com/magusti/Switch-homebrew-development#disponibility-of-openal-on-switch-by-openal-soft).
 * [Matrix effect on Switch](https://github.com/magusti/Switch-homebrew-development#matrix-effect-on-switch).
 * [Using sprites animates on Switch with SDL2.0](https://github.com/magusti/Switch-homebrew-development#using-sprites-animates-on-switch-with-sdl20).
+* [Using GLAD on Switch with devkitA64/devkitPro](https://github.com/magusti/Switch-homebrew-development#switch_glad).
+* [OpenAL Switch audio1D](https://github.com/magusti/Switch-homebrew-development#openalSwitch_audio1D).
+* [OpenAL Switch audio3D](https://github.com/magusti/Switch-homebrew-development#openalSwitch_audio3D).
 
 <!--
 - Using Box2D plus SDL 2.0 on Switch [Switch__SDL2_0_box2D](https://github.com/magusti/Switch-homebrew-development#switch__sdl2_0_box2d).
@@ -146,8 +149,30 @@ In process...
 
 
 
+<!-- ## Switch__GLAD -->
+## Using GLAD on Switch with SDL2.0
+OpenGL is full of auxiliary libraries, here we explore the purpose of GLAD and also its related GLEW & GL3W on Switch. 
+
+![Auxiliary libraries on classic and modern Switch & PC OpenGL](Switch_GLAD/bibliotecasAuxiliares_OpenGL_clasico_moderno.png)
+![Screenshots of OpenGL using GLAD in different platforms](Switch_GLAD/capturasDePantalla_GLAD_GLEW_GL3W.png)
+![Using GLAD on a project for Swith+devkitA64](Switch_GLAD/glad_enUnProyectoParaSwitch.png)
+
+References:
+ * EGL for Switch (https://github.com/magusti/Switch-homebrew-development#egl-on-switch).
+ * GLAD, GLEW & GL3W on PC (https://github.com/magusti/OpenGL_examples/tree/master/PC__GLEW_GLAD_GL3W/).
+ 
+  
+  ![repo](https://github.com/magusti/OpenGL_examples/tree/master/PC__GLEW_GLAD_GL3W/).
+<!-- Commented in ... 
+(2025). Bibliotecas de carga de OpenGL: portabilidad Switch-PC. https://riunet.upv.es/. Keyword: OpenGL moderno, bibliotecas auxiliares, Switch, PC, GLAD, GLEW, GL3W. Modern 
+-->
+In process...
 
 
+<!--
+* [OpenAL Switch audio1D](https://github.com/magusti/Switch-homebrew-development#openalSwitch_audio1D).
+* [OpenAL Switch audio3D](https://github.com/magusti/Switch-homebrew-development#openalSwitch_audio3D).
+-->
 <!-- 
 Plantilla apartat; conter espais en blanc de separació o no i simbols
 
