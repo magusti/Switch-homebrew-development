@@ -191,6 +191,16 @@ Code:
 Commented in [M. Agustí (2026). Uso de OpenAL en plataforma Switch: audio 3D.](https://riunet.upv.es/handle/10251/235364)
 Keyword: OpenAL, devkitA64, Switch, Openal Soft, audio 3D, audio posicional, audio espacial
   
+  
+  
+  
+## Comparission of turning around effect with 3D vs 2D version
+Turning around 3D using OpenGL
+![Screenshot of turning around 3D effet with OpenGL (using devkitA64) ported to Switch](Switch-homebrew-development/efecte3D_OpenGL_Switch.gif)
+
+Turning around 2D using SDL 2.0
+![Screenshot of turning around 3D effet with SDL (using devkitA64) ported to Switch/](Switch-homebrew-development/efecte3D_SDL2D_PC.gif)
+
 <!-- 
 Plantilla apartat; conter espais en blanc de separació o no i simbols
 Commented in [M. Agustí (2026). Bibliotecas de carga de OpenGL: portabilidad Switch-PC.](https://riunet.upv.es/handle/10251/235728)
