@@ -182,7 +182,7 @@ Keyword: OpenAL, devkitA64, Switch, Openal Soft, reproducir audio, PCM, audio en
 <!-- -->
 ## Audio 3D with OpenAL on Switch
 Screenshot of use of audio 3D with OpenAL/OpenALSoft (using devkitA64) ported to Switch
-![Screenshot of use of audio 3D with OpenAL (using devkitA64) ported to Switch/](openalSwitch__audio1D/OpenalSwitch_audio3D.png)
+![Screenshot of use of audio 3D with OpenAL (using devkitA64) ported to Switch/](openalSwitch__audio3D/OpenalSwitch_audio3D.png)
 
 Code:
   * [OpenAL Switch audio3D](https://github.com/magusti/Switch-homebrew-development#openalSwitch_audio3D).
