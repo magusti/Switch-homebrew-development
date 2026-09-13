@@ -22,9 +22,9 @@ Contents of this repo:
 * [Disponibility of OpenAL on Switch by OpenAL Soft](https://github.com/magusti/Switch-homebrew-development#disponibility-of-openal-on-switch-by-openal-soft).
 * [Matrix effect on Switch](https://github.com/magusti/Switch-homebrew-development#matrix-effect-on-switch).
 * [Using sprites animates on Switch with SDL2.0](https://github.com/magusti/Switch-homebrew-development#using-sprites-animates-on-switch-with-sdl20).
-* [Using GLAD on Switch with devkitA64/devkitPro](https://github.com/magusti/Switch-homebrew-development#switch_glad).
-* [OpenAL Switch audio1D](https://github.com/magusti/Switch-homebrew-development#openalSwitch_audio1D).
-* [OpenAL Switch audio3D](https://github.com/magusti/Switch-homebrew-development#openalSwitch_audio3D).
+* [Using GLAD on Switch with devkitA64/devkitPro](https://github.com/magusti/Switch-homebrew-development#Using-GLAD-on-Switch-with-SDL2.0).
+* [Audio 1D with OpenAL on Switch](https://github.com/magusti/Switch-homebrew-development#Audio-1D-with-OpenAL-on-Switch).
+* [Audio 3D with OpenAL on Switch](https://github.com/magusti/Switch-homebrew-development#Audio-1D-with-OpenAL-on-Switch).
 
 <!--
 - Using Box2D plus SDL 2.0 on Switch [Switch__SDL2_0_box2D](https://github.com/magusti/Switch-homebrew-development#switch__sdl2_0_box2d).
@@ -124,13 +124,12 @@ Screenshot of my Matrix effect on Switch
 
 Code in [efecteMatrix_Switch](https://github.com/magusti/Switch-homebrew-development/tree/main/efecteMatrix_Switch)
 
-<!-- Commented in ... -->
-In process...
+<!-- Commented in []() / In process... -->
+Commented in [M. Agustí (2026). El uso del texto para efectos en pantalla: una implementación del efecto matrix portable entre videoconsolas y PC]()
 
 
 <!-- ## Switch__SDL2_0_AnimateSprites -->
 ## Using sprites animates on Switch with SDL2.0
-
 Screenshot of NDS style and 3DS sprite animation techniques styles ported to Switch.
 ![Screenshot of NDS style and 3DS sprite animation techniques styles ported to Switch](Switch__SDL2_0_spritesAnimate/capturaDePantalla_spriteAnimate_Switch_SDL.png )
 
@@ -143,9 +142,8 @@ References:
  * NDS/Tutorials Animation  / Dev-Scene.com . Copia en <https://d2l62mv7qj2i3f.cloudfront.net/NDS/Tutorials_Animation>
  * "Simple basic animation using the citro2d library" - GitHub <https://github.com/NyankoTear/reimu_idle/blob/main/README.md>
 
-
-<!-- Commented in ... -->
-In process...
+<!-- Commented in / In process... -->
+Commented in [M. Agustí (2026). Ejemplo de portabilidad de sprites animados:de NDS y 3DS a Switch, con SDL.](https://riunet.upv.es/handle/10251/235470)
 
 
 
@@ -163,24 +161,43 @@ References:
  
   
   ![repo](https://github.com/magusti/OpenGL_examples/tree/master/PC__GLEW_GLAD_GL3W/).
-<!-- Commented in ... 
-(2025). Bibliotecas de carga de OpenGL: portabilidad Switch-PC. https://riunet.upv.es/. Keyword: OpenGL moderno, bibliotecas auxiliares, Switch, PC, GLAD, GLEW, GL3W. Modern 
--->
-In process...
+<!-- Commented in / In process... -->
+Commented in [M. Agustí (2026). Bibliotecas de carga de OpenGL: portabilidad Switch-PC.](https://riunet.upv.es/handle/10251/235728)
+Keyword: OpenGL moderno, bibliotecas auxiliares, Switch, PC, GLAD, GLEW, GL3W. Modern 
 
 
-<!--
-* [OpenAL Switch audio1D](https://github.com/magusti/Switch-homebrew-development#openalSwitch_audio1D).
-* [OpenAL Switch audio3D](https://github.com/magusti/Switch-homebrew-development#openalSwitch_audio3D).
--->
+
+<!-- --> 
+## Audio 3D with OpenAL on Switch
+Screenshot of use of audio 1D with OpenAL/OpenALSoft (using devkitA64) ported to Switch.
+![Screenshot of use of audio 1D with OpenAL (using devkitA64) ported to Switch](openalSwitch__audio1D/OpenalSwitch_audio1D.png)
+
+
+Code:
+  * [OpenAL Switch audio1D](https://github.com/magusti/Switch-homebrew-development#openalSwitch_audio3D).
+  
+Commented in [M. Agustí (2026). Uso de OpenAL en plataforma Switch: reproducción básica de sonido.]( https://riunet.upv.es/handle/10251/235364)
+Keyword: OpenAL, devkitA64, Switch, Openal Soft, reproducir audio, PCM, audio en memoria.
+  
+<!-- -->
+## Audio 3D with OpenAL on Switch
+Screenshot of use of audio 3D with OpenAL/OpenALSoft (using devkitA64) ported to Switch
+![Screenshot of use of audio 3D with OpenAL (using devkitA64) ported to Switch/](openalSwitch__audio1D/OpenalSwitch_audio3D.png)
+
+Code:
+  * [OpenAL Switch audio3D](https://github.com/magusti/Switch-homebrew-development#openalSwitch_audio3D).
+  
+Commented in [M. Agustí (2026). Uso de OpenAL en plataforma Switch: audio 3D.](https://riunet.upv.es/handle/10251/235364)
+Keyword: OpenAL, devkitA64, Switch, Openal Soft, audio 3D, audio posicional, audio espacial
+  
 <!-- 
 Plantilla apartat; conter espais en blanc de separació o no i simbols
+Commented in [M. Agustí (2026). Bibliotecas de carga de OpenGL: portabilidad Switch-PC.](https://riunet.upv.es/handle/10251/235728)
 
 ## Titol
 Text,  de l'entrada
 |[Text de l'entrada.](efecteMatrix_3DS/efecteMatrix_3DS.png).
 
-< ! -- Commented in ... -- >
-In process...
-
+< ! -- 
+Commented in // In process...
 -->
