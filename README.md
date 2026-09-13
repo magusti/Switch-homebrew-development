@@ -199,7 +199,7 @@ Turning around 3D using OpenGL
 ![Screenshot of turning around 3D effet with OpenGL (using devkitA64) ported to Switch](turning_around_3D_vs_2D/efecte3D_OpenGL_Switch.gif)
 
 Turning around 2D using SDL 2.0
-![Screenshot of turning around 3D effet with SDL (using devkitA64) ported to Switch/](turning_around_3D_vs_2D/efecte3D_SDL2D_PC.gif)
+![Screenshot of turning around 3D effet with SDL on PC/](turning_around_3D_vs_2D/efecte3D_SDL2D_PC.gif)
 
 <!-- 
 Plantilla apartat; conter espais en blanc de separació o no i simbols
