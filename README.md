@@ -163,6 +163,7 @@ References:
   ![repo](https://github.com/magusti/OpenGL_examples/tree/master/PC__GLEW_GLAD_GL3W/).
 <!-- Commented in / In process... -->
 Commented in [M. Agustí (2026). Bibliotecas de carga de OpenGL: portabilidad Switch-PC.](https://riunet.upv.es/handle/10251/235728)
+
 Keyword: OpenGL moderno, bibliotecas auxiliares, Switch, PC, GLAD, GLEW, GL3W. Modern 
 
 
@@ -174,9 +175,10 @@ Screenshot of use of audio 1D with OpenAL/OpenALSoft (using devkitA64) ported to
 
 
 Code:
-  * [OpenAL Switch audio1D](https://github.com/magusti/Switch-homebrew-development#openalSwitch_audio3D).
+  * [OpenAL Switch audio3D](https://github.com/magusti/Switch-homebrew-development#openalSwitch_audio3D).
   
 Commented in [M. Agustí (2026). Uso de OpenAL en plataforma Switch: reproducción básica de sonido.]( https://riunet.upv.es/handle/10251/235364)
+
 Keyword: OpenAL, devkitA64, Switch, Openal Soft, reproducir audio, PCM, audio en memoria.
   
 <!-- -->
